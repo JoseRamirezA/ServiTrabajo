@@ -1,0 +1,36 @@
+usuarioj1
+contrasenaj1
+12345678901
+METRO
+6138888
+Mall Parque Lambramani Nivel -2, Av. Lambramani A-01, Arequipa
+usuarioj2
+contrasenaj2
+56897423512
+OECHSLE
+16194801
+Avenida Ejercito 1009 CC Real Plaza Arequipa, Cayma
+usuarioj3
+contrasenaj3
+25687493212
+PLAZA VEA
+80100020
+Avenida la Marina 300
+PEPE
+PEPE
+15632478952
+EL INKA
+265487
+Avenida Independencia 580
+usuarioj5
+contrasenaj5
+16589742569
+TAI LOY
+258749
+Avenida Independencia 585
+prueba37
+prueba37
+16528749325
+TITO SAC
+945826317
+Avenida Ejercito Nro 1512

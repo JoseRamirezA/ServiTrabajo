@@ -1,0 +1,40 @@
+usuariop1
+contrasenap1
+Pedro Jesus
+Alvarez Thomas
+12345678
+25021980
+987654321
+Estudios Universitarios
+Contabilidad
+Asesor Financiero
+usuariop2
+contrasenap2
+Lupe Leticia
+Hernandez Monterrosa
+16532874
+30121970
+985214637
+Estudios Universitarios
+Ingenieria de Materiales
+Mina
+usuariop3
+contrasenap3
+Carlos Eduardo
+Mendoza Flores
+56243178
+26051985
+962487136
+Estudios Secundarios
+No tiene
+Atencion al Cliente - Farmacia
+juan
+juan
+Juan Gabriel
+Mendoza Soto
+25468792
+30061965
+954632178
+Primarios
+No tengo
+Atencion al Cliente Claro

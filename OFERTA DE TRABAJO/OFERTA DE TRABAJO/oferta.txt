@@ -1,0 +1,16 @@
+12345678901
+CAJERO(A)
+Atencion al cliente de lunes a viernes de 8:00 a 2:00
+900
+12345678901
+SEGURIDAD
+Brindar seguridad en el horario nocturno.
+1000
+25687493212
+ACOMODADOR
+Brindar el servicio de acomodar nuestros productos en sus respectivos estantes.
+900
+16528749325
+VENDEDOR DE CELULARES
+Se necesita joven o se¤orita para atencion al cliente
+850
